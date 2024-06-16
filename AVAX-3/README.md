@@ -9,7 +9,7 @@ The smart contract can be deployed on any test net or hardhat, This contract is 
 ## Getting Started
 ### Executing the program
 To run the code, follow these steps:
-1) ```git clone https://github.com/Ms-10182/eth-avax-proof-intermediate-project-3.git```
+1) ```git clone https://github.com/22BCS10378/ETH-AVAX-Mod3.git```
 2) copy the ```Vibranium.sol```into remix and deploy on test net.
 if deploying on remix evm the front end of remix will be used to interact.
 3) After deploying on test net copy the address of contract and paste in ```contractAddress``` inside ```app.js```, and copy abi and paste in ```contractABI``` inside same ```app.js```.
